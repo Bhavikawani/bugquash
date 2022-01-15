@@ -15,7 +15,6 @@ function App() {
       <Routes>
         <Route path={ROUTES.HOMEPAGE} element={<HomePage />} />
       </Routes>
-      {/* <HomePage/> */}
     </Main>
   );
 }
